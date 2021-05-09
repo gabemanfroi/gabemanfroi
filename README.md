@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/gabemanfroi" target="blank"><img src="https://img.shields.io/twitter/follow/gabemanfroi?logo=twitter&style=for-the-badge" alt="gabemanfroi" /></a> </p>
 
-- 🔭 I’m currently working on [Movie Rater App](https://github.com/gabemanfroi/movierater)
+- 🔭 I’m currently working on Personal Private Projects.
 
-- 🌱 I’m currently learning **Spring, Angular and Mobile Development**
+- 🌱 I’m currently learning **React, Data Science and Flutter**
 
-- 💬 Ask me about **Java, HTML, CSS and Javascript**
+- 💬 Ask me about **Python, Spring, Java, HTML, CSS, Javascript**
 
 - 📫 How to reach me **manfroigab@gmail.com**
 
