@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A passionate FullStack from Brasil!</h3>
+<h3 align="center">A passionate FullStack Developer from Brasil!</h3>
 
 <p align="left"> <a href="https://twitter.com/gabemanfroi" target="blank"><img src="https://img.shields.io/twitter/follow/gabemanfroi?logo=twitter&style=for-the-badge" alt="gabemanfroi" /></a> </p>
 
