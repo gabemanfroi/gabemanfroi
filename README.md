@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/gabemanfroi" target="blank"><img src="https://img.shields.io/twitter/follow/gabemanfroi?logo=twitter&style=for-the-badge" alt="gabemanfroi" /></a> </p>
 
-- 🔭 I’m currently working on [ShowcaseMe](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 🔭 I’m currently working on [ShowcaseMe](https://showcase-me.online/gabriel-manfroi)
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://showcase-resume.vercel.app/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 👨‍💻 All of my projects are available at [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
-- 📝 I regularly write articles on [https://showcase-resume.vercel.app/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 📝 I regularly write articles on [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
 - 📫 How to reach me **manfroigab@gmail.com**
 
-- 📄 Know about my experiences [https://showcase-resume.vercel.app/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 📄 Know about my experiences [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
