@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 👨‍💻 All of my projects are available at [https://showcaseme.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
-- 📝 I regularly write articles on [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 📝 I regularly write articles on [https://showcaseme.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
 - 📫 How to reach me **manfroigab@gmail.com**
 
-- 📄 Know about my experiences [https://showcase-me.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
+- 📄 Know about my experiences [https://showcaseme.online/gabriel-manfroi](https://showcase-resume.vercel.app/gabriel-manfroi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
