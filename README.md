@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://showcaseme.online/gabriel-manfroi](https://showcase.me/gabriel-manfroi)
+- 👨‍💻 All of my projects are available at [https://gabrielmanfroi.dev](https://gabrielmanfroi.dev)
 
 - 📝 I regularly write articles on [The Coding Compass](https://thecodingcompass.com)
 
-- 📫 How to reach me **manfroigab@gmail.com**
+- 📫 How to reach me **gabriel@gabrielmanfroi.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
